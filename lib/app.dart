@@ -2,6 +2,7 @@ import 'package:authentication_repository/authentication_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_login_bloc/authentication/bloc/authentication_bloc.dart';
+import 'package:flutter_login_bloc/splash/splash.dart';
 import 'package:user_repository/user_repository.dart';
 
 class App extends StatefulWidget {
