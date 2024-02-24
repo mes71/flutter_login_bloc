@@ -5,6 +5,9 @@ import 'package:flutter_login_bloc/authentication/bloc/authentication_bloc.dart'
 import 'package:flutter_login_bloc/splash/splash.dart';
 import 'package:user_repository/user_repository.dart';
 
+import 'home/home.dart';
+import 'login/login.dart';
+
 class App extends StatefulWidget {
   const App({super.key});
 
