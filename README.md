@@ -1,6 +1,8 @@
 # Flutter Login Bloc
 
-A new Flutter project.
+![level](https://img.shields.io/badge/level-intermediate-orange.svg)
+
+In the following tutorial, we're going to build a Login Flow in Flutter using the Bloc library.
 
 ## Key Topics
 
@@ -13,3 +15,4 @@ A new Flutter project.
 - BlocListener, a Flutter widget which invokes the listener code in response to state changes in the bloc.
 - Updating the UI based on a part of a bloc state with context.select.⚡
 
+![film.gif](film.gif)
